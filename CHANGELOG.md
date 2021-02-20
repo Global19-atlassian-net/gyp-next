@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.8.2](https://www.github.com/nodejs/gyp-next/compare/v0.8.1...v0.8.2) (2021-02-20)
+
+
+### Bug Fixes
+
+* update gyp.el to change case to cl-case ([#93](https://www.github.com/nodejs/gyp-next/issues/93)) ([13d5b66](https://www.github.com/nodejs/gyp-next/commit/13d5b66aab35985af9c2fb1174fdc6e1c1407ecc))
+
 ### [0.8.1](https://www.github.com/nodejs/gyp-next/compare/v0.8.0...v0.8.1) (2021-02-18)
 
 
